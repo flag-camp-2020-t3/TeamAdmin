@@ -56,8 +56,10 @@ Google Sheet：Change List
 目标：设计好MVP的features和数据库
 
 1. 落实feature: 你想做什么feature? 你的feature需要什么数据？
-表格：[[link]](https://docs.google.com/spreadsheets/d/1992QcHV6gkmQZJ0B5y45SJnld8CYQbbw-GIi5WuS334/edit?usp=sharing#gid=1415313468)
-Due Date: 周六(11/14) 晚(18:00) 开始 poll
+
+	* 表格：[[link]](https://docs.google.com/spreadsheets/d/1992QcHV6gkmQZJ0B5y45SJnld8CYQbbw-GIi5WuS334/edit?usp=sharing#gid=1415313468)
+
+	* Due Date: 周六(11/14) 晚(18:00) 开始 poll
 
 2. TBD - 分组
 
