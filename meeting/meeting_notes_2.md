@@ -10,6 +10,7 @@
 4. 确定database schema
 5. 创建project repository & 确定文件夹
 6. 每个同学需要记录自己的Accumulative Works, 有一个自己的RFC (Ready for comments) doc
+   * 面试官BQ的关注点永远在于你做了什么
 7. 学习和运用git hub project, workflow 等功能
 
 # 会议前完成（11/15 - 11/21）
