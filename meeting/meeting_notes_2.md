@@ -9,6 +9,8 @@
 3. 小分组确定小组长 & 下周每个组员担当的features
 4. 确定database schema
 5. 创建project repository & 确定文件夹
+6. 每个同学需要记录自己的Accumulative Works, 有一个自己的RFC (Ready for comments) doc
+7. 学习和运用git hub project, workflow 等功能
 
 # 会议前完成（11/15 - 11/21）
 1. 所有同学可以上到 Design Doc > 数据库 填写feature相关的database schema。
