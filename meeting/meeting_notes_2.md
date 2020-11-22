@@ -4,14 +4,16 @@
 时间：美西时间 11/21 14:00 - 16:00
 
 目标：
-1. 确定 MVP features
-2. 确定小分组
-3. 小分组确定小组长 & 下周每个组员担当的features
-4. 确定database schema
-5. 创建project repository & 确定文件夹
-6. 每个同学需要记录自己的Accumulative Works, 有一个自己的RFC (Ready for comments) doc
+1. 确定 MVP features 
+2. 确定database schema
+3. 确定小分组
+4. 小分组确定小组长 & 下周每个组员担当的features
+5. project tech stack
+7. 创建 project repository & 确定文件夹
+8. 每个同学需要记录自己的Accumulative Works, 有一个自己的RFC (Ready for comments) doc
    * 面试官BQ的关注点永远在于你做了什么
-7. 学习和运用git hub project, workflow 等功能
+9. 学习和运用git hub project, workflow 等功能
+10. Database 
 
 # 会议前完成（11/15 - 11/21）
 1. 所有同学可以上到 Design Doc > 数据库 填写feature相关的database schema。
