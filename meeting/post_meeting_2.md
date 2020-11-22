@@ -3,13 +3,29 @@
 
 时间：周四(11/21)美西时间 14:00 - 15:30
 
-视频链接：[[link]](https://us02web.zoom.us/rec/share/Go9D-RL0SAGF-_S2kNhYe5tDQWMAILgPF3Xbgfb6aJRnAfUTKgv1g8iH2fVd5zem.46otz5h17882bIHR?startTime=1605995523000)
+视频链接：[[link]](https://us02web.zoom.us/rec/share/cYqOyBg5M9ZZuwf9zFqz5kEyFOcvHQvqxwvBgUVZkvFMjmAsCaYzStHhvQalzDeD.OgN_WIAf06sZKDoq)
 
 Passcode: 见群公告
 
 # Important Desicison
 1. 决定了用 (frontend) React + (backend) Spring Boot
 2. 决定了下周的目标是每位同学 focus on backend
+
+# 快速导航
+19:30 ------ 使用 React + Spring Boot 分前后端，例子解释；
+
+28:00 ------ Can Zhao: 需要确定 API Doc, 例子解释；
+
+32:30 ------ Can Zhao: 建议用库 Lambok
+
+43:30 ------ Spring Configuration: annotation based + java based
+
+49:30 ------ Spring Boot 小Demo
+
+55:00 ------ 大概的 AWS plan
+
+58:00 ------ 会议内容结束，开始问答等
+
 
 # 笔记
 1. [Sprint 1 MVP features](https://docs.google.com/document/d/1-DcBUM5C133_LKRSqJHfKrMgn_DZwZKon8JT4nnUrpM/edit?usp=sharing#)
