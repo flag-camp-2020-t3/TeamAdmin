@@ -36,7 +36,6 @@ Passcode: 见群公告
 	* 需要确定组员分工
 	* 需要有小分组doc和组员doc
 4. 负责自己feature的同学需要去[endpoints doc](https://docs.google.com/spreadsheets/d/1992QcHV6gkmQZJ0B5y45SJnld8CYQbbw-GIi5WuS334/edit?usp=sharing#gid=1844065228)写下自己的API
-5. Database 组的同学需要先 implement models
 
 # Reference
 1. LamBok
