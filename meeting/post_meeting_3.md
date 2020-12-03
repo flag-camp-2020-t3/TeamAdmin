@@ -9,7 +9,8 @@ Passcode: 见群公告
 
 # Important Desicison
 1. Buyer: OfferDao
-   需要 getAllOffers 区分 buyer & sellers
+   * 需要 getAllOffers 区分 buyer & sellers ------- Yuhe
+   * 需要更新 create offer controller ------- Can Zhao
 2. 其他组详细情况在小组里讨论
 
 # 快速导航
