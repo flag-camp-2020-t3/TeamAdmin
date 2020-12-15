@@ -12,7 +12,8 @@
 * [doc](https://docs.google.com/spreadsheets/d/1992QcHV6gkmQZJ0B5y45SJnld8CYQbbw-GIi5WuS334/edit?usp=sharing#gid=1128399482)
 
 
-3.
+3. Use JIRA for scrum management
+* [jira page](spare4fun.atlassian.net)
 
 
 ## Important Notice
